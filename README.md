@@ -8,25 +8,16 @@
 
 ### **Indice**
 
-**0. Cosa cambia quest’anno?**
-
-**1. Cos'è il mentoring, e cosa non è:**  
-   - Spiegazione dei concetti di mentoring, coaching, training, e consulting con esempi pratici.
-
-**2. Relazione di mentoring vs conversazione in stile mentoring**
-
-**3. Cosa vogliamo fare noi:**  
-   - Conversazioni in stile mentoring, con l’obiettivo di ispirare vere relazioni di mentoring.  
-   - Come misurare il successo del processo.
-
-**4. Logistica:**  
-   - Struttura degli incontri (kick-off, riunioni staff-mentor, incontri mentor-mentee)  
-   - Ruoli e responsabilità di mentor, mentee, e coordinatori.
-
-**5. Dettagli sugli incontri:**  
-   - Struttura consigliata e dinamiche, con suggerimenti per la gestione di difficoltà.  
-
----
+- [0. Cosa cambia quest’anno?](#0-cosa-cambia-questanno)
+- [1. Cosa significa Mentoring?](#1-cosa-significa-mentoring)
+- [2. Relazione di Mentoring vs Conversazione di Mentoring](#2-relazione-di-mentoring-vs-conversazione-di-mentoring)
+- [3. Obiettivo del programma: Conversazioni in stile mentoring](#3-obiettivo-del-programma-conversazioni-in-stile-mentoring)
+- [4. Logistica](#4-logistica)
+- [5. Struttura degli incontri](#5-struttura-degli-incontri)
+  - [Primo incontro: Introduzione e condivisione di esperienze](#primo-incontro-introduzione-e-condivisione-di-esperienze)
+  - [Secondo incontro: Approfondimento e confronto](#secondo-incontro-approfondimento-e-confronto)
+  - [Terzo incontro: Consolidamento](#terzo-incontro-consolidamento)
+- [Nota per i mentor](#nota-per-i-mentor)
 
 ### **Benvenuti al programma di mentoring!**
 
